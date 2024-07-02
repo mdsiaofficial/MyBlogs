@@ -1,5 +1,6 @@
 # Using Generic in TypeScript about types \<T> in the Code
 
+
 ## Question 1: Here what is this <T> means?
 ```typescript
 const addID = <T>(obj: T) => {
