@@ -33,8 +33,66 @@ Don't miss this chance to be part of an electrifying online hackathon experience
 
 **Additional Information:**
 
-* **Date and Time:** To Be Announced
+* **Date and Time:** 
+## Registration Deadline - 13th July, 2024
+## Hackathone Date - 15th July, 2024
+
 * **Registration Link:** CPCCU Portal (https://cpccu.club)
 * **Judges:** Our respected faculty members and alumni.
 
-Get ready to code, collaborate, and conquer the console at "Console Craze!"
+# Result:
+
+## Team 14
+
+***Question 1***
+1. Basic functionality 100
+2. Edge case. 100
+3. Code structure 80
+   -  Code case mismatch
+   -  Rounds would not be a part of game class
+4. Program readability 90
+   -  Each game round could be be separated by white spaces
+
+***Question 2***
+1. Basic functionality 100
+2. Edge case. 70
+3. Code structure 80
+4. Program readability 90
+
+## Team 5
+
+***Question 3***
+1. Basic functionality 20
+2. Edge case. 40
+3. Code structure 50
+4. Program readability 40
+
+## Team 11
+
+***Question 2***
+1. Basic functionality 100
+2. Edge case. 80
+3. Code structure 80
+4. Program readability 90
+
+***Question 3***
+1. Basic functionality 100
+2. Edge case. 70
+3. Code structure 50 Didn't follow DRY principal
+4. Program readability 80
+
+
+
+## Team 2
+
+***Question 1***
+1. Basic functionality 60
+2. Edge case. 100
+3. Code structure 100
+4. Program readability 90
+
+***Question 3***
+1. Basic functionality 100
+2. Edge case. 70
+3. Code structure 90
+4. Program readability 80
